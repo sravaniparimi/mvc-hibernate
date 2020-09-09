@@ -1,0 +1,13 @@
+<html>
+<body bgcolor="wheat">
+<br><br><br>
+<center><h1>DOCTOR REGISTER PAGE</h1>
+<br><br><br>
+<form action="./doctor_login"method="post">
+<input type="text" name="dname" placeholder="Enter name">
+<input type="password" name="password" placeholder="Enter password">
+<input type="submit" value="Login">
+</form>
+</center>
+</body>
+</html>
