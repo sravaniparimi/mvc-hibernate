@@ -1,0 +1,19 @@
+<html>
+<body bgcolor="wheat">
+<center>
+<h1>WELCOME TO DOCTOR HOME</h1>
+
+<a href="doctor_home.html">HOME</a>
+<a href="doctor_profile.jsp">PROFILE</a>
+
+
+
+</center>
+
+
+
+</body>
+
+
+
+</html>
